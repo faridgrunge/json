@@ -1,7 +1,7 @@
 {
   "redirect" : [ {
 
-    "url_utama" : "file:///android_asset/music/playlist.html",
+    "url_utama" : "https://faridgrunge.github.io/berandadoa/",
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
